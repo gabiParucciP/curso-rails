@@ -52,7 +52,7 @@ group :development, :test do
   gem "pry-rails"
   gem "active_model_serializers"
   gem "foreman"
-  gem "versionist", "~> 1.5.0"
+  gem "versionist", "~> 2.0.1"
   gem "kaminari"
   gem "api-pagination"
   gem "rspec-rails"
